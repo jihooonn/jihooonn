@@ -1,1 +1,2 @@
 <a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/jiihoonnn?igsh=NmUwbmZmN3d2ZTBz)" target="_blank"><img src="https://img.shields.io/badge/세계최강상남자-배경색?style=for-the-badge&logo=#0093D5&logoColor=#000000"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihooonn&count_bg=%23FFD6CB&title_bg=%23ED8585&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
